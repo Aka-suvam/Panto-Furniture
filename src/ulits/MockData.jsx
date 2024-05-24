@@ -46,8 +46,8 @@ import GoldenLamp1 from "../assets/images/products/otherProducts/goldenlamp1.web
 import GoldenLamp2 from "../assets/images/products/otherProducts/goldenlamp2.webp";
 import WoodChair1 from "../assets/images/products/otherProducts/woodchair1.webp";
 import WoodChair2 from "../assets/images/products/otherProducts/woodchair2.webp";
-import Studytable1 from "../assets/images/products/otherProducts/Studytable1.jpg";
-import Studytable2 from "../assets/images/products/otherProducts/Studytable2.jpg";
+import Studytable1 from "../assets/images/products/otherProducts/studytable1.jpg";
+import Studytable2 from "../assets/images/products/otherProducts/studytable2.jpg";
 
 import TableLamp1 from "../assets/images/products/otherProducts/tablelamp1.webp";
 import TableLamp2 from "../assets/images/products/otherProducts/tablelamp2.webp";
